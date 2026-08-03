@@ -1,0 +1,6 @@
+{
+  "name": "Bangla Office",
+  "description": "একটি শক্তিশালী মোবাইল অফিস স্যুট (ডক, শিট, স্লাইড) এবং এইচএসসি প্রশ্নপত্র তৈরির সুবিধা সম্বলিত অ্যাপ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
